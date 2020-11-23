@@ -37,3 +37,5 @@ Isolando o Ambiente
       para desativar o virtualenv é só utilizar o comando deactivate, o prompt volta para a versão original,execuntando o comando which python é possivel verificar  que o diretorio do python é o do pyenv que foi instalado no passo anterior 
       configurando no pycharm
       /home/vladimir/PycharmProjects/libpythonpro_VMS/.venv/bin/python
+      
+      sadasdasdasdsad 
