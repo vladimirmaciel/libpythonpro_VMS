@@ -36,7 +36,4 @@ Isolando o Ambiente
       utizando o comando which python  possível verificar de onde o python esta sendo executado 
       para desativar o virtualenv é só utilizar o comando deactivate, o prompt volta para a versão original,execuntando o comando which python é possivel verificar  que o diretorio do python é o do pyenv que foi instalado no passo anterior 
       configurando no pycharm
-      /home/vladimir/PycharmProjects/libpythonpro_VMS/.venv/bin/python.
-      teste
-      
-      
+      /home/vladimir/PycharmProjects/libpythonpro_VMS/.venv/bin/python
