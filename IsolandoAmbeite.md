@@ -1,4 +1,4 @@
-# libpythonpro
+# Isolando Ambiente
 Módulo para exemplificar construção de projetos Python no curso PyTools
 Isolando o Ambiente 
  O Pyenv possibilita ter multiplas versoes do python instaldas no sistema operacional, preservando a versão original do sistema e suas dependencias. 
