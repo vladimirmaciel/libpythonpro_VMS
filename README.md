@@ -1,5 +1,7 @@
 #Curso PyTools 
 [![Build Status](https://travis-ci.com/vladimirmaciel/libpythonpro_VMS.svg?branch=main)](https://travis-ci.com/vladimirmaciel/libpythonpro_VMS)
+[![Updates](https://pyup.io/repos/github/vladimirmaciel/libpythonpro_VMS/shield.svg)](https://pyup.io/repos/github/vladimirmaciel/libpythonpro_VMS/)
+[![Python 3](https://pyup.io/repos/github/vladimirmaciel/libpythonpro_VMS/python-3-shield.svg)](https://pyup.io/repos/github/vladimirmaciel/libpythonpro_VMS/)
 
 https://www.python.pro.br/
 Objetivo
