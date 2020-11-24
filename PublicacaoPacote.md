@@ -17,3 +17,8 @@ para testar rodar o comandos abaixo:
 >>> buscar_avatar('vladimirmaciel')
 'https://avatars1.githubusercontent.com/u/606140?v=4'
 
+comando para criação de release 
+
+git tag <nome-da-tag>
+git push --tags
+pip install <link> 
