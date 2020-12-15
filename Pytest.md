@@ -6,3 +6,4 @@ no arquivo requirements-dev.txt
 
 para rodar o teste executar o comando pytest libpythonpro, irá procurar por todos os testes 
 toda lib normalmente costuma ter uma pasta test onde se encontraram os testes automaticos da aplicação
+Utilizar o Travis CI para rodar os testes 
